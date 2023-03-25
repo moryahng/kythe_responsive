@@ -363,11 +363,11 @@ footer{
 
     input{
         height: 40px;
-        width: 388px;
+        width: 320px;
     }
 
     textarea{
-        width: 388px
+        width: 320px
     }
 
     .banner{
@@ -403,14 +403,14 @@ footer{
 
 
     .content{
-        width: 390px;
+        width: 320px;
         margin: auto;
     }
     .mobile_top{
         margin-top: 700px;
     }
     .img_wrapper{
-        width: 390px;
+        width: 320px;
         object-fit: cover;
     }
 
@@ -443,8 +443,8 @@ footer{
         object-fit: cover;
     }
 
-    .text_wrapper.mobile{
-        width: 390px;
+    .text_wrapper{
+        width: 320px;
     }
 
     .spaceline.mobile{
@@ -462,10 +462,10 @@ footer{
     }
 
     .joinus{
-        width: 388px;
+        width: 320px;
     }
     .text_wrapper_old.team{
-        width: 388px;
+        width: 320px;
     }
 
     .footertext{
