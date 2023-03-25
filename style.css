@@ -492,10 +492,16 @@ footer{
         width: 320px;
     }
 
+    footer{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
     .footertext{
         font-size: 6px;
         margin-left: 20px;
         letter-spacing: 0.13em;
+        line-height: 10px;
     }
 
     .thankyou{
